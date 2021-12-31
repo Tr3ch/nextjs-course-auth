@@ -1,1 +1,1 @@
-
+# NextJS Course Authentication
